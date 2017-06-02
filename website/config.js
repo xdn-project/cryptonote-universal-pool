@@ -2,7 +2,7 @@ var api = "http://poolhost.com:1117";
 
 var poolHost = "poolhost.com";
 
-var irc = "irc.freenode.net/#poolhost";
+var irc = "irc.freenode.net/#aeon";
 
 var email = "support@poolhost.com";
 
